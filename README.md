@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-![](public/1.png)
+![](react-complete-guide/blob/master/public/1.PNG)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
